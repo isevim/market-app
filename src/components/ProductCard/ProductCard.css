@@ -1,0 +1,43 @@
+.product-card-container {
+    width : 124px;
+    height: 225px;
+    border: 0px !important;
+    font-weight: 600;
+}
+
+.product-image-container {
+    border : 1px solid #F3F0FE;
+    margin-bottom: 8px;
+}
+
+.product-image-box {
+    width           : 92px;
+    height          : 92px;
+    background-color: #C4C4C4;
+    margin          : 16px;
+}
+
+.ant-card-body {
+    padding: 0px !important;
+}
+
+.item-price {
+    padding-right: 12px;
+    color: #1EA4CE;
+    font-weight: 400;
+}
+
+.card-body-items {
+    margin     : 0;
+    font-size  : 12px;
+    padding-top: 6px;
+}
+
+.add-button{
+    font-size: 12px !important;
+    background-color: #1EA4CE !important;
+    width: 100% !important;
+    height: 24px !important;
+    border-radius: 2px !important;
+    color: #fff !important;
+}

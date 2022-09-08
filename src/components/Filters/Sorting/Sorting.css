@@ -1,0 +1,21 @@
+.sorting-header {
+    font-weight: 600;
+    font-size  : 13px;
+    line-height: 18px;
+    color      : #697488 !important;
+}
+
+.sorting-box {
+    background-color: white;
+    padding         : 4px;
+    width           : 296px;
+}
+
+.sorting-box-radio-group {
+    padding: 8px 24px 24px 24px !important;
+}
+
+.sorting-box-radio {
+    padding-top: 16px !important;
+    width      : 100%;
+}

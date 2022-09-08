@@ -1,0 +1,41 @@
+.brand-header {
+    background-color: #1EA4CE;
+    font-weight     : bold;
+    color           : #fff;
+}
+
+.brand-header-name {
+    display        : flex !important;
+    justify-content: center !important;
+    padding        : 20px;
+}
+.market-brand-header-text{
+    font-family: 'landliebe', sans-serif;
+}
+
+.brand-header-basket {
+    background-color: #147594;
+    position        : absolute;
+    right           : 120px !important;
+    padding         : 31px;
+    text-align      : center;
+}
+
+.brand-container {
+    padding: 31px 104px 87px 120px;
+}
+
+.ant-checkbox-group-item {
+    width        : 100%;
+    margin-bottom: 16px !important;
+}
+
+::-webkit-scrollbar {
+    width : 4px;
+    height: 78px;
+}
+
+::-webkit-scrollbar-thumb {
+    background   : #E0E0E0;
+    border-radius: 4px;
+}

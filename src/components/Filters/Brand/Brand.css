@@ -1,0 +1,35 @@
+.brand-space {
+    padding-top: 24px;
+}
+
+.brand-text {
+    font-weight: 600;
+    font-size  : 13px;
+    line-height: 18px;
+    color      : #697488 !important;
+}
+
+.brand-search {
+    margin: 24px 17px 24px 24px !important;
+    width : 80% !important;
+
+}
+
+.brand-checkbox-container {
+    overflow    : overlay;
+    height      : 142px;
+    overflow-x  : hidden;
+    padding-left: 24px;
+}
+
+.brand-box {
+    background-color: white;
+    padding         : 4px;
+    width           : 296px;
+    height          : 274px;
+}
+
+.brand-checkbox {
+    padding-bottom: 16px !important;
+    width         : 100%;
+}
